@@ -1,0 +1,127 @@
+{
+    "emptyTable": "There is no data available in the table",
+    "loadingRecords": "loading...",
+    "processing": "loading...",
+    "lengthMenu": "Show _MENU_ Input",
+    "zeroRecords": "No records found",
+    "info": "Show _START_ to _END_ out of _TOTAL_ entry",
+    "infoEmpty": "Displays 0 to 0 out of 0 records",
+    "infoFiltered": "(selected from sum of _MAX_ entered)",
+    "search": "Search:",
+    "paginate": {
+        "first": "First",
+        "previous": "Previous",
+        "next": "Next",
+        "last": "Last"
+    },
+    "aria": {
+        "sortAscending": ": Activate to sort column in ascendingً",
+        "sortDescending": ": Activate column order in descending orderً"
+    },
+    "select": {
+        "rows": {
+            "_": "%d selected value",
+            "0": "",
+            "1": "1 قيمة محددة"
+        },
+        "1": "%d selected line",
+        "_": "%d selected lines",
+        "cells": {
+            "1": "1 selected cell",
+            "_": "%d selected cells"
+        },
+        "columns": {
+            "1": "1 selected column",
+            "_": "%d selected columns"
+        }
+    },
+    "buttons": {
+        "print": "Print",
+        "copyKeys": "button <i>ctrl<\/i> or <i>⌘<\/i> + <i>C<\/i> from the table<br>To be copied to the clipboard<br><br>To cancel, tap on the message or tap the Exit button.",
+        "copySuccess": {
+            "_": "%d copied value",
+            "1": "1 copied value"
+        },
+        "pageLength": {
+            "-1": "show all",
+            "_": "show %d lines"
+        },
+        "collection": "Collection",
+        "copy": "Copy",
+        "copyTitle": "Copy to clipboard",
+        "csv": "CSV",
+        "excel": "Excel",
+        "pdf": "PDF",
+        "colvis": "Show Columns",
+        "colvisRestore": "show back"
+    },
+    "autoFill": {
+        "cancel": "Cancel",
+        "info": "An example of an autofill",
+        "fill": "Fill in all fields with <i>%d&lt;\\\/i&gt;<\/i>",
+        "fillHorizontal": "Fill fields horizontally",
+        "fillVertical": "Fill fields vertically"
+    },
+    "searchBuilder": {
+        "add": "add condition",
+        "clearAll": "remove all",
+        "condition": "condition",
+        "data": "data",
+        "logicAnd": "and",
+        "logicOr": "or",
+        "title": [
+            "Search Builder"
+        ],
+        "value": "value",
+        "conditions": {
+            "date": {
+                "after": "after",
+                "before": "before",
+                "between": "between",
+                "empty": "empty",
+                "equals": "equals",
+                "not": "not",
+                "notBetween": "not between",
+                "notEmpty": "not empty"
+            },
+            "number": {
+                "between": "between",
+                "empty": "empty",
+                "equals": "equals",
+                "gt": "bigger than",
+                "gte": "greater than or equal to",
+                "lt": "less than",
+                "lte": "less than or equal to",
+                "not": "not",
+                "notBetween": "not between",
+                "notEmpty": "not empty"
+            },
+            "string": {
+                "contains": "contains",
+                "empty": "empty",
+                "endsWith": "ends with",
+                "equals": "equals",
+                "not": "not",
+                "notEmpty": "not empty",
+                "startsWith": "starts with"
+            }
+        },
+        "button": {
+            "0": "search filters",
+            "_": "search filters (%d)"
+        },
+        "deleteTitle": "delete filters"
+    },
+    "searchPanes": {
+        "clearMessage": "remove all",
+        "collapse": {
+            "0": "Search",
+            "_": "Search (%d)"
+        },
+        "count": "count",
+        "countFiltered": "filtered count",
+        "loadMessage": "loading ...",
+        "title": "Active Filters"
+    },
+    "searchPlaceholder": "Search ..."
+}

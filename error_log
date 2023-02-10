@@ -1,0 +1,2 @@
+[08-Apr-2021 18:00:13 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 8192 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/GenericRule.php on line 36
+[11-Apr-2021 18:51:58 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 266240 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/Pool.php on line 205
